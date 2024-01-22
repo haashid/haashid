@@ -19,10 +19,3 @@ I'm open to exciting collaborations! Whether it's coding projects, hackathons, o
 📧 Email: haashid.0607@gmail.com
 
 Feel free to explore my repositories and connect with me! Let's code, innovate, and have fun! 🚀✨
-```
-
-Feel free to customize it further based on your preferences and experiences!
-<!---
-haashid/haashid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
