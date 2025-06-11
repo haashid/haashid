@@ -1,21 +1,75 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=FFC305&center=true&vCenter=true&width=500&lines=Hey+I'm+Haashid+%F0%9F%91%8B;Problem+Solver+%7C+builder+%7C+Tech+Explorer;I+build+things+that+matter+%F0%9F%9A%80;Welcome+to+my+code+playground!" alt="Typing SVG" />
+</div>
 
-# Hey there! 👋 I'm Haashid
+---
 
-🚀 Welcome to my coding playground! I'm passionate about learning and building cool stuff. Currently diving deep into the world of web development 🌐.
+## 💡 About Me
 
-### 🔧 Tech Stack
-- 💻 Frontend: HTML, CSS, JavaScript
-- 🌐 Backend: Node.js, Express
-- 🛢️ Database: MongoDB
-- 🔧 Tools: VS Code, Git
+Hi, I’m **Haashid** — a creator, coder, and problem-solver who enjoys blending **logic and creativity** to build things that are useful, fun, and future-focused.
 
-### 🌱 Learning Journey
-I believe in constant growth. Currently sharpening my skills in React and exploring the vast world of APIs.
+- 🔭 Currently building: Smart dashboards, IoT-powered health monitors, and AI assistants.
+- 🚀 Mission: Build digital tools that make life easier and smarter.
+- 🎓 Student of Code, Business, and Human Experience.
 
-### 🤝 Let's Collaborate
-I'm open to exciting collaborations! Whether it's coding projects, hackathons, or just exchanging ideas, let's create something awesome together.
+<p align="center">
+<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" alt="Cute Robot Waving" />
+</p>
 
-### 📫 Reach Me
-📧 Email: haashid.0607@gmail.com
+---
 
-Feel free to explore my repositories and connect with me! Let's code, innovate, and have fun! 🚀✨
+## 🧠 Tech Playground
+
+```txt
+Frontend    : HTML | CSS | JavaScript | Tailwind | React (learning)
+Backend     : Node.js | Express.js
+Database    : MongoDB | Firebase
+AI/ML       : OpenAI APIs | LangChain (Exploring)
+IoT         : ESP32 | Sensors | MQTT
+Dev Tools   : VS Code | Git | Figma | Postman
+````
+
+> 🛠️ I love building MVPs fast and experimenting with real-world integrations!
+
+---
+
+## 🛠️ Recent Projects
+
+🚑 **Real-Time Heart Health Monitor**
+
+> IoT + AI-powered dashboard for visualizing ECG, SpO₂ & alerts in real-time.
+> MQTT | React | Tailwind | Firebase
+> 🔗 [GitHub Repo](https://github.com/haashid/real-time-heart-health-monitoring-system)
+
+
+
+---
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=haashid&show_icons=true&theme=radical" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haashid&theme=radical" height="160"/>
+</p>
+
+---
+
+## ⚡ Let's Connect!
+
+> I love chatting about projects, tech, ideas, or even life!
+> Hit me up — I'm open to collabs and freelancing gigs!
+
+* 📫 Email: `haashidgo@gmail.com`
+* 🔗 linkedin: `Muhammad Haashid`
+* 📎 Portfolio Website: *Coming soon...*
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+  <br />
+  <b>Thanks for stopping by! Keep building, keep dreaming. 🚀</b>
+</div>
+```
+
+
