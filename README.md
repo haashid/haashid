@@ -53,9 +53,7 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haashid&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+
 
 ---
 
@@ -268,14 +266,6 @@ const haashid = {
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haashid&theme=tokyonight" width="95%" />
-</p>
-
----
-
-## 🐍 **Watch My Contributions**
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/haashid/haashid/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ---
