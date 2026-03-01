@@ -29,7 +29,7 @@
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
 <br /><b>Winner</b>
-<br />6x Hackathon Champion
+<br />7x Hackathon Champion
 </td>
 <td align="center" width="33%">
 <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
