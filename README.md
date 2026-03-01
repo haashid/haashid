@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=200&section=header&text=Muhammad%20Haashid&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer%20|%20Blockchain%20Builder%20|%206x%20Hackathon%20Champion&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=200&section=header&text=Muhammad%20Haashid&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer%20|%20Blockchain%20Builder%20|%207x%20Hackathon%20Champion&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FFC305&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Haashid+%F0%9F%91%8B;6x+National+Hackathon+Winner+%F0%9F%8F%86;Blockchain+%7C+IoT+%7C+AI+Explorer;I+Build+Systems+That+Scale+%F0%9F%9A%80;IEEE+Member+%7C+Founding+President+ICSB;Welcome+to+My+Digital+Lab+%F0%9F%94%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FFC305&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Haashid+%F0%9F%91%8B;7x+National+Hackathon+Winner+%F0%9F%8F%86;Blockchain+%7C+IoT+%7C+AI+Explorer;I+Build+Systems+That+Scale+%F0%9F%9A%80;IEEE+Member+%7C+Founding+President+ICSB;Welcome+to+My+Digital+Lab+%F0%9F%94%AC" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -186,7 +186,7 @@
 <td width="50%" valign="top">
 
 ### 🎯 **2026 Goals**
-- ✅ Win 10+ hackathons (6/10 done!)
+- ✅ Win 10+ hackathons (7/10 done!)
 - 🎓 Graduate with 8.5+ SGPA
 - 🌍 Scale student engagement to 500+
 - 🏆 Secure IEEE RAS Student Rep position
@@ -257,7 +257,7 @@ const haashid = {
         tools: ["Git", "VS Code", "Figma", "Postman"]
     },
     currentFocus: "Building decentralized systems that scale",
-    funFact: "I turned blockchain from theory to 6 hackathon wins to teaching 300+ students!"
+    funFact: "I turned blockchain from theory to 7 hackathon wins to teaching 300+ students!"
 };
 ```
 
