@@ -261,9 +261,6 @@ const haashid = {
 };
 ```
 
-<p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" alt="Coding Robot" />
-</p>
 
 ---
 
