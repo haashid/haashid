@@ -159,7 +159,7 @@
 <p align="center"><em>Private contributions counted alongside public ones — the full picture of the work, not just what's visible.</em></p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haashid&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="90%" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=haashid&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="90%" />
 </p>
 
 <p align="center">
