@@ -166,34 +166,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=haashid&theme=tokyo-night&hide_border=true&area=true" width="95%" />
 </p>
 
----
-
-## 🌟 **What I'm About**
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 👨‍💻 **Currently Working On**
-- 🔗 Decentralized applications on Weilchain
-- 🤖 IoT-powered health monitoring systems
-- 🎓 IEEE RAS Technical Committee initiatives
-- 🚀 Scaling ICSB Club impact across Region 10
-
-</td>
-<td width="50%" valign="top">
-
-### 🎯 **2026 Goals**
-- ✅ Win 10+ hackathons (7/10 done!)
-- 🎓 Graduate with 8.5+ SGPA
-- 🌍 Scale student engagement to 500+
-- 🏆 Secure IEEE RAS Student Rep position
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🎓 **Leadership & Community**
 
