@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FFC305&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Haashid+%F0%9F%91%8B;8x+National+Hackathon+Winner+%F0%9F%8F%86;Blockchain+%7C+IoT+%7C+AI+Explorer;I+Build+Systems+That+Scale+%F0%9F%9A%80;IEEE+Member+%7C+Founding+President+ICSB;Welcome+to+My+Digital+Lab+%F0%9F%94%AC" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FFC305&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Haashid+%F0%9F%91%8B;8x+National+Hackathon+Winner+%F0%9F%8F%86;Google+Student+Ambassador+2026+%F0%9F%8C%9F;Blockchain+%7C+IoT+%7C+AI+Explorer;I+Build+Systems+That+Scale+%F0%9F%9A%80;IEEE+Member+%7C+Founding+President+ICSB;Welcome+to+My+Digital+Lab+%F0%9F%94%AC" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -11,6 +11,10 @@
   <a href="mailto:haashidgo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/haashid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=haashid&label=Profile%20Views&color=FFC305&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🌟_Google_Student_Ambassador_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
 ---
@@ -45,15 +49,13 @@
 
 <div align="center">
 
-| 🥈 **2nd Runner-Up** | 🏆 **Overall Champion** | 🥇 **1st Place** | 🥈 **2nd Place** |
-|:---:|:---:|:---:|:---:|
-| **IIT Kharagpur** | **Innov8trix 2025** | **NIRMAN** | **Hackotsava 2025** |
-| East India Blockchain Summit | 5 Prizes Won | Blockchain Security | National Hackathon |
-| *Jan 2026* | *2025* | *2025* | *2025* |
+| 🌟 **Google Student Ambassador** | 🥈 **2nd Runner-Up** | 🏆 **Overall Champion** | 🥇 **1st Place** | 🥈 **2nd Place** |
+|:---:|:---:|:---:|:---:|:---:|
+| **2026 Cohort** | **IIT Kharagpur** | **Innov8trix 2025** | **NIRMAN** | **Hackotsava 2025** |
+| Selected by Google | East India Blockchain Summit | 5 Prizes Won | Blockchain Security | National Hackathon |
+| *2026* | *Jan 2026* | *2025* | *2025* | *2025* |
 
 </div>
-
-
 
 ---
 
@@ -91,6 +93,7 @@
 
 ### **AI & Tools**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -108,8 +111,8 @@
 ### 🔐 **Decentralized Applet Marketplace**
 [![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
 
-> **🥈 2nd Runner-Up - IIT Kharagpur's Blockchain Summit 2.0**  
-> Marketplace DApp on Weilchain enabling composable applet chaining with secure wallet authentication  
+> **🥈 2nd Runner-Up - IIT Kharagpur's Blockchain Summit 2.0**
+> Marketplace DApp on Weilchain enabling composable applet chaining with secure wallet authentication
 > `Solidity` `Web3.js` `Smart Contracts` `IPFS` `Weilchain`
 
 ---
@@ -117,8 +120,8 @@
 ### 🗳️ **Blockchain Exam Paper Protection System**
 [![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
 
-> **🥇 1st Place - NIRMAN Innovation Challenge**  
-> Smart-contract access control with immutable audit logs and IPFS storage  
+> **🥇 1st Place - NIRMAN Innovation Challenge**
+> Smart-contract access control with immutable audit logs and IPFS storage
 > `Ethereum` `Solidity` `IPFS` `Cryptography` `Role-Based Access`
 
 ---
@@ -126,7 +129,7 @@
 ### 📊 **Real-Time Heart Health Monitor**
 [![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid/real-time-heart-health-monitoring-system)
 
-> IoT + AI dashboard visualizing ECG, SpO₂ & health alerts in real-time  
+> IoT + AI dashboard visualizing ECG, SpO₂ & health alerts in real-time
 > `ESP32` `MQTT` `React` `Tailwind` `Firebase` `IoT Sensors`
 
 ---
@@ -134,8 +137,8 @@
 ### 🗳️ **Decentralized Voting System (RFID + Blockchain)**
 [![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
 
-> **🥈 2nd Place - Hackotsava 2025 | 🏆 Best Innovation - Nitte Udbhav**  
-> RFID identity validation with blockchain-based tamper-resistant voting  
+> **🥈 2nd Place - Hackotsava 2025 | 🏆 Best Innovation - Nitte Udbhav**
+> RFID identity validation with blockchain-based tamper-resistant voting
 > `Blockchain` `RFID` `Arduino` `Smart Contracts` `Real-time Tracking`
 
 ---
@@ -143,11 +146,27 @@
 ### 🌊 **BioFlow - Waste Management Platform**
 [![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
 
-> **🎯 Google Solution Challenge Submission**  
-> Connecting fishery waste generators with users for environmental sustainability  
+> **🎯 Google Solution Challenge Submission**
+> Connecting fishery waste generators with users for environmental sustainability
 > `Full-Stack` `Node.js` `React` `MySQL` `Environmental Tech`
 
 </div>
+
+---
+
+## 🏅 **GitHub Achievements & Contribution Trophies**
+
+<p align="center"><em>Private contributions counted alongside public ones — the full picture of the work, not just what's visible.</em></p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=haashid&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="90%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/haashid?tab=achievements">
+    <img src="https://img.shields.io/badge/View_Full_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
@@ -173,8 +192,10 @@
 
 | Role | Organization | Impact |
 |:---|:---|:---:|
+| 🌟 **Google Student Ambassador** | Google | 2026 Cohort |
 | 🎖️ **Founding President** | ICSB Club | 300+ Students |
 | 🔬 **R&D Intern** | THEROAC | Proof-of-Concepts |
+| 💼 **Intern** | Datavex AI Pvt Ltd | AI Systems |
 | 🏢 **Co-Founder** | Neighbour Friendly Rentals | Sustainability |
 | 👨‍🏫 **IoT Instructor** | Technical Workshops | 100+ Mentored |
 | 🤝 **IEEE Member** | RAS, SMC, CEDA, WIE, CS | 8+ Communities |
@@ -205,9 +226,10 @@
 
 <br /><br />
 
-**📍 Location:** Mangaluru, Karnataka, India (IEEE Region 10)  
-**🎓 Institution:** P.A. College of Engineering  
+**📍 Location:** Mangaluru, Karnataka, India (IEEE Region 10)
+**🎓 Institution:** P.A. College of Engineering
 **💼 IEEE Member:** 101774944
+**🌟 Google Student Ambassador:** 2026 Cohort
 
 </div>
 
@@ -226,6 +248,7 @@ const haashid = {
         backend: ["Node.js", "Express", "MongoDB", "MySQL", "Firebase"],
         tools: ["Git", "VS Code", "Figma", "Postman"]
     },
+    currentRole: "Google Student Ambassador 2026",
     currentFocus: "Building decentralized systems that scale",
     funFact: "I turned blockchain from theory to 7 hackathon wins to teaching 300+ students!"
 };
@@ -244,10 +267,10 @@ const haashid = {
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=120&section=footer" />
-  
+
   ### 💭 *"Code is poetry written in logic"*
-  
+
   **Thanks for visiting! Let's build something amazing together 🚀**
-  
+
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b> Keep pushing boundaries 🔥</em>
 </div>
