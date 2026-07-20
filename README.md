@@ -17,6 +17,26 @@
   <img src="https://img.shields.io/badge/🌟_Google_Student_Ambassador_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
+<div align="center">
+
+| 🏆 8x | 🥇 1st | 🌟 2026 | 🎓 300+ |
+|:---:|:---:|:---:|:---:|
+| Hackathon Wins | NIRMAN Champion | Google Student Ambassador | Students Mentored |
+
+</div>
+
+---
+
+## 🔥 **Currently Building**
+
+<div align="center">
+
+> 🛢️ **ORION** — a role-aware, multi-department engineering intelligence platform for upstream oil & gas, fusing multimodal GenAI with physics-aware, domain-specific reasoning.
+>
+> 🎙️ **Meetily** — turning a standalone meeting recorder into a full AI Project Intelligence & Meeting Assistant with persistent, per-project memory — local-first, privacy-preserving by design.
+
+</div>
+
 ---
 
 ## 🎯 **Mission Statement**
@@ -157,6 +177,18 @@
 ## 🏅 **GitHub Achievements & Contribution Trophies**
 
 <p align="center"><em>Private contributions counted alongside public ones — the full picture of the work, not just what's visible.</em></p>
+
+<p align="center">
+  <a href="https://github.com/users/haashid/achievements/pull-shark">
+    <img src="https://img.shields.io/badge/🦈_Pull_Shark-1F6FEB?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/users/haashid/achievements/yolo">
+    <img src="https://img.shields.io/badge/🎲_YOLO-F778BA?style=for-the-badge&labelColor=0D1117" />
+  </a>
+  <a href="https://github.com/users/haashid/achievements/quickdraw">
+    <img src="https://img.shields.io/badge/⚡_Quickdraw-FFC107?style=for-the-badge&labelColor=0D1117" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=haashid&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="90%" />
