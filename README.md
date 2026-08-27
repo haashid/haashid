@@ -1,308 +1,177 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=200&section=header&text=Muhammad%20Haashid&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Web3%20Developer%20|%20Blockchain%20Builder%20|%208x%20Hackathon%20Champion&descAlignY=55&descAlign=50" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=FFC305&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Haashid+%F0%9F%91%8B;8x+National+Hackathon+Winner+%F0%9F%8F%86;Google+Student+Ambassador+2026+%F0%9F%8C%9F;Blockchain+%7C+IoT+%7C+AI+Explorer;I+Build+Systems+That+Scale+%F0%9F%9A%80;IEEE+Member+%7C+Founding+President+ICSB;Welcome+to+My+Digital+Lab+%F0%9F%94%AC" alt="Typing SVG" />
-</div>
+# Muhammad Haashid
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-haashid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:haashidgo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/haashid"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=haashid&label=Profile%20Views&color=FFC305&style=for-the-badge" alt="Profile Views" />
+  <strong>AI • Blockchain • IoT • Full-Stack Engineering</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🌟_Google_Student_Ambassador_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <a href="https://github.com/haashid"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-haashid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:haashidgo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<div align="center">
+I’m an engineering student and builder interested in turning ambitious ideas into working systems. My projects sit across **AI, blockchain, IoT, cybersecurity, and full-stack product engineering**, with a strong focus on practical problem solving.
 
-| 🏆 8x | 🥇 1st | 🌟 2026 | 🎓 300+ |
-|:---:|:---:|:---:|:---:|
-| Hackathon Wins | NIRMAN Champion | Google Student Ambassador | Students Mentored |
-
-</div>
+I also enjoy building communities, mentoring students, and competing in high-pressure hackathons where ideas have to become functional prototypes quickly.
 
 ---
 
-## 🔥 **Currently Building**
+## What I Build
 
-<div align="center">
-
-> 🛢️ **ORION** — a role-aware, multi-department engineering intelligence platform for upstream oil & gas, fusing multimodal GenAI with physics-aware, domain-specific reasoning.
->
-> 🎙️ **Meetily** — turning a standalone meeting recorder into a full AI Project Intelligence & Meeting Assistant with persistent, per-project memory — local-first, privacy-preserving by design.
-
-</div>
+- **AI systems** — generative AI, intelligent workflows, multi-agent applications, and product automation
+- **Blockchain / Web3** — smart contracts, decentralized applications, IPFS, and blockchain-enabled systems
+- **IoT systems** — connected hardware, ESP32 / Arduino projects, telemetry, and real-time dashboards
+- **Full-stack products** — modern web applications, APIs, databases, and developer-facing tools
+- **Technical communities** — student leadership, workshops, hackathons, and hands-on technical education
 
 ---
 
-## 🎯 **Mission Statement**
+## Featured Work
 
-> **"I don't just write code — I architect systems that solve real problems, mobilize communities, and push boundaries."**
+### ORION
+**Engineering Intelligence · AI · Energy**
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100" />
-<br /><b>Builder</b>
-<br />DApps, IoT Systems, APIs
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100" />
-<br /><b>Winner</b>
-<br />8x Hackathon Champion
-</td>
-<td align="center" width="33%">
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
-<br /><b>Leader</b>
-<br />300+ Students Engaged
-</td>
-</tr>
-</table>
+A role-aware engineering intelligence platform for upstream oil & gas, combining multimodal GenAI with domain-specific reasoning.
 
----
+[Repository →](https://github.com/haashid/ORION)
 
-## 🏆 **Trophy Case**
+### Meetily / Meeting Intelligence
+**AI · Productivity · Project Intelligence**
 
-<div align="center">
+A local-first meeting intelligence project evolving from recording into persistent, project-aware assistance.
 
-| 🌟 **Google Student Ambassador** | 🥈 **2nd Runner-Up** | 🏆 **Overall Champion** | 🥇 **1st Place** | 🥈 **2nd Place** |
-|:---:|:---:|:---:|:---:|:---:|
-| **2026 Cohort** | **IIT Kharagpur** | **Innov8trix 2025** | **NIRMAN** | **Hackotsava 2025** |
-| Selected by Google | East India Blockchain Summit | 5 Prizes Won | Blockchain Security | National Hackathon |
-| *2026* | *Jan 2026* | *2025* | *2025* | *2025* |
+### TrueHire AI
+**AI · Recruitment · Multi-Agent Systems**
 
-</div>
+A recruitment-focused AI system exploring resume analysis, adaptive questioning, candidate evaluation, and automated hiring decisions.
 
----
+[Repository →](https://github.com/haashid/trueHire-Ai-)
 
-## 💻 **Tech Arsenal**
+### Weilchain Nexus
+**Blockchain · Web3**
 
-<div align="center">
+A decentralized applet marketplace concept built around composable workflows, wallet authentication, smart contracts, and IPFS.
 
-### **Blockchain & Web3**
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-![IPFS](https://img.shields.io/badge/IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
+[Repository →](https://github.com/haashid/weilchain-nexus)
 
-### **Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Real-Time Heart Health Monitoring System
+**IoT · Real-Time Systems**
 
-### **Backend & Database**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+A connected health-monitoring system using ESP32, MQTT, a web dashboard, and Firebase-backed data flows.
 
-### **IoT & Hardware**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)
+[Repository →](https://github.com/haashid/real-time-heart-health-monitoring-system)
 
-### **AI & Tools**
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+### AuditOS
+**AI · Audit Technology**
 
-</div>
+An ongoing software project exploring technology-assisted auditing workflows.
+
+[Repository →](https://github.com/haashid/AuditOS)
+
+### RakshaChain
+**Blockchain · Security**
+
+A blockchain-oriented security project.
+
+[Repository →](https://github.com/haashid/RakshaChain)
 
 ---
 
-## 🚀 **Featured Projects**
+## Recognition
 
-<div align="center">
+| Achievement | Event / Organization |
+| --- | --- |
+| **Grand Champion** | VEXSTORM 2026 · Datavex AI |
+| **National Runner-Up** | HackToFuture 4.0 · St. Joseph Engineering College × EG India |
+| **2nd Runner-Up** | East India Blockchain Summit 2.0 · IIT Kharagpur · KSHITIJ 2026 |
+| **2nd Place** | Hackotsava 2025 · National Level Hackathon |
+| **Runner-Up** | Hackathon 2K26 · Chakravyuha Youth Carnival · Srinivas University |
+| **Winner** | Entrorphosis Entrepreneurship Event · Malnad College of Engineering, Hassan |
+| **Best Innovation** | Udbhava: Spark the Future · Nitte Institute of Professional Education |
+| **Overall Champion** | Innov8rix 2025 |
+| **3rd Prize** | Hack Summit 2024 |
 
-### 🔐 **Decentralized Applet Marketplace**
-[![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
-
-> **🥈 2nd Runner-Up - IIT Kharagpur's Blockchain Summit 2.0**
-> Marketplace DApp on Weilchain enabling composable applet chaining with secure wallet authentication
-> `Solidity` `Web3.js` `Smart Contracts` `IPFS` `Weilchain`
-
----
-
-### 🗳️ **Blockchain Exam Paper Protection System**
-[![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
-
-> **🥇 1st Place - NIRMAN Innovation Challenge**
-> Smart-contract access control with immutable audit logs and IPFS storage
-> `Ethereum` `Solidity` `IPFS` `Cryptography` `Role-Based Access`
+Also selected as a **Google Student Ambassador — 2026**.
 
 ---
 
-### 📊 **Real-Time Heart Health Monitor**
-[![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid/real-time-heart-health-monitoring-system)
+## Leadership
 
-> IoT + AI dashboard visualizing ECG, SpO₂ & health alerts in real-time
-> `ESP32` `MQTT` `React` `Tailwind` `Firebase` `IoT Sensors`
+**Founding President — ICSB Club, P.A. College of Engineering**  
+Building a student community around IoT, cybersecurity, blockchain, and hands-on engineering.
 
----
+**Chairperson — IEEE Systems, Man & Cybernetics Student Chapter**  
+Contributing to technical community building and student engagement.
 
-### 🗳️ **Decentralized Voting System (RFID + Blockchain)**
-[![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
+**Technical Workshops — 300+ students reached**  
+Conducted practical technical sessions, including hands-on hardware and engineering workshops.
 
-> **🥈 2nd Place - Hackotsava 2025 | 🏆 Best Innovation - Nitte Udbhav**
-> RFID identity validation with blockchain-based tamper-resistant voting
-> `Blockchain` `RFID` `Arduino` `Smart Contracts` `Real-time Tracking`
+Featured by **Vartha Bharathi** as a resource person for a two-day BUILDX workshop on building RC cars at BIT Polytechnic.
 
----
-
-### 🌊 **BioFlow - Waste Management Platform**
-[![GitHub](https://img.shields.io/badge/View_Project-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haashid)
-
-> **🎯 Google Solution Challenge Submission**
-> Connecting fishery waste generators with users for environmental sustainability
-> `Full-Stack` `Node.js` `React` `MySQL` `Environmental Tech`
-
-</div>
+[Read the article →](https://english.varthabharati.in/karavali/bit-polytechnic-hosts-successful-two-day-buildx-workshop-on-building-rc-cars)
 
 ---
 
-## 🏅 **GitHub Achievements & Contribution Trophies**
+## Technical Stack
 
-<p align="center"><em>Private contributions counted alongside public ones — the full picture of the work, not just what's visible.</em></p>
+### AI / Intelligent Systems
+`OpenAI` `Google Gemini` `Generative AI` `LangGraph`
+
+### Blockchain / Web3
+`Solidity` `Ethereum` `Web3.js` `IPFS` `Weilchain` `Smart Contracts`
+
+### Frontend
+`React` `Next.js` `JavaScript` `HTML` `CSS` `Tailwind CSS` `Flutter`
+
+### Backend / Data
+`Node.js` `Express.js` `Python` `FastAPI` `PHP` `MongoDB` `MySQL` `Firebase`
+
+### IoT / Hardware
+`ESP32` `Arduino` `Raspberry Pi` `MQTT`
+
+### Tools
+`Git` `GitHub` `VS Code` `Figma` `Postman`
+
+---
+
+## GitHub
+
+I keep this profile focused on projects, experiments, and engineering work. Some of my active repositories include:
+
+- [ORION](https://github.com/haashid/ORION)
+- [AuditOS](https://github.com/haashid/AuditOS)
+- [Weilchain Nexus](https://github.com/haashid/weilchain-nexus)
+- [TrueHire AI](https://github.com/haashid/trueHire-Ai-)
+- [Real-Time Heart Health Monitoring](https://github.com/haashid/real-time-heart-health-monitoring-system)
+- [RakshaChain](https://github.com/haashid/RakshaChain)
+- [VEXSTORM 2026](https://github.com/haashid/vexstrom-26)
+- [HackToFuture 4](https://github.com/haashid/hacktofuture4-I03)
+- [ICSB Website](https://github.com/haashid/ICSB-WEBSITE)
+- [EchoVerse](https://github.com/haashid/EchoVerse)
+- [DIES](https://github.com/haashid/DIES)
+
+---
+
+## Currently Building
+
+**ORION** — engineering intelligence for complex upstream energy workflows.
+
+**Meeting Intelligence** — privacy-conscious AI assistance for meetings and project memory.
+
+I’m especially interested in systems where **AI, software, connected devices, and real-world workflows** intersect.
+
+---
+
+## Connect
+
+I’m open to **technical collaborations, hackathons, research, open-source work, and ambitious product ideas**.
+
+- [LinkedIn](https://www.linkedin.com/in/muhammad-haashid/)
+- [GitHub](https://github.com/haashid)
+- [Email](mailto:haashidgo@gmail.com)
+
+---
 
 <p align="center">
-  <a href="https://github.com/users/haashid/achievements/pull-shark">
-    <img src="https://img.shields.io/badge/🦈_Pull_Shark-1F6FEB?style=for-the-badge&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/users/haashid/achievements/yolo">
-    <img src="https://img.shields.io/badge/🎲_YOLO-F778BA?style=for-the-badge&labelColor=0D1117" />
-  </a>
-  <a href="https://github.com/users/haashid/achievements/quickdraw">
-    <img src="https://img.shields.io/badge/⚡_Quickdraw-FFC107?style=for-the-badge&labelColor=0D1117" />
-  </a>
+  <sub>Built with curiosity, shipped through iteration.</sub>
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=haashid&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10" width="90%" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/haashid?tab=achievements">
-    <img src="https://img.shields.io/badge/View_Full_Achievements-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📊 **GitHub Analytics**
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=haashid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=haashid&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haashid&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haashid&theme=tokyo-night&hide_border=true&area=true" width="95%" />
-</p>
-
-
-## 🎓 **Leadership & Community**
-
-<div align="center">
-
-| Role | Organization | Impact |
-|:---|:---|:---:|
-| 🌟 **Google Student Ambassador** | Google | 2026 Cohort |
-| 🎖️ **Founding President** | ICSB Club | 300+ Students |
-| 🔬 **R&D Intern** | THEROAC | Proof-of-Concepts |
-| 💼 **Intern** | Datavex AI Pvt Ltd | AI Systems |
-| 🏢 **Co-Founder** | Neighbour Friendly Rentals | Sustainability |
-| 👨‍🏫 **IoT Instructor** | Technical Workshops | 100+ Mentored |
-| 🤝 **IEEE Member** | RAS, SMC, CEDA, WIE, CS | 8+ Communities |
-| 🌊 **Volunteer** | IEEE GRSS Outreach | Coastal Communities |
-
-</div>
-
----
-
-## 💬 **Let's Collaborate!**
-
-<div align="center">
-
-### I'm open to:
-🚀 **Hackathons** • 💼 **Freelance Projects** • 🤝 **Open Source Contributions** • 🎓 **Research Collaborations**
-
-<br />
-
-<a href="mailto:haashidgo@gmail.com">
-  <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/muhammad-haashid">
-  <img src="https://img.shields.io/badge/Connect_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="tel:+916360850145">
-  <img src="https://img.shields.io/badge/Call_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<br /><br />
-
-**📍 Location:** Mangaluru, Karnataka, India (IEEE Region 10)
-**🎓 Institution:** P.A. College of Engineering
-**💼 IEEE Member:** 101774944
-**🌟 Google Student Ambassador:** 2026 Cohort
-
-</div>
-
----
-
-## 🎨 **Fun Facts**
-```javascript
-const haashid = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "Python", "Solidity", "PHP", "C++"],
-    askMeAbout: ["Blockchain", "IoT", "Web3", "Hackathons", "Community Building"],
-    technologies: {
-        blockchain: ["Ethereum", "Weilchain", "Smart Contracts", "IPFS", "DApps"],
-        iot: ["ESP32", "Arduino", "Raspberry Pi", "RFID", "Sensors"],
-        frontend: ["React", "Flutter", "Tailwind", "HTML/CSS"],
-        backend: ["Node.js", "Express", "MongoDB", "MySQL", "Firebase"],
-        tools: ["Git", "VS Code", "Figma", "Postman"]
-    },
-    currentRole: "Google Student Ambassador 2026",
-    currentFocus: "Building decentralized systems that scale",
-    funFact: "I turned blockchain from theory to 7 hackathon wins to teaching 300+ students!"
-};
-```
-
-
----
-
-## 📈 **Contribution Graph**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=haashid&theme=tokyonight" width="95%" />
-</p>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B35,50:F7931E,100:FDC830&height=120&section=footer" />
-
-  ### 💭 *"Code is poetry written in logic"*
-
-  **Thanks for visiting! Let's build something amazing together 🚀**
-
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Happy Coding!</b> Keep pushing boundaries 🔥</em>
-</div>
