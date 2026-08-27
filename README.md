@@ -10,6 +10,12 @@
 <a href="https://www.linkedin.com/in/muhammad-haashid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:haashidgo@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=haashid&label=PROFILE%20VIEWS&color=0E75B6&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/haashid?label=FOLLOWERS&style=for-the-badge&color=1D4ED8" alt="GitHub followers" />
+<img src="https://img.shields.io/github/stars/haashid?label=TOTAL%20STARS&style=for-the-badge&color=06B6D4" alt="GitHub stars" />
+
 </div>
 
 <br />
@@ -255,18 +261,19 @@ A recognition that reflects my interest in technology, student communities, and 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haashid&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true&custom_title=Muhammad%20Haashid's%20GitHub%20Stats" width="49%" alt="GitHub statistics" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=haashid&hide_border=true&theme=transparent" width="49%" alt="GitHub contribution streak" />
+<img src="https://img.shields.io/badge/ACTIVE%20REPOSITORIES-20+-0E75B6?style=for-the-badge&logo=github&logoColor=white" alt="Active repositories" />
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-BUILDING-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Open source building" />
+<img src="https://img.shields.io/badge/FOCUS-AI%20%2B%20WEB3%20%2B%20IoT-06B6D4?style=for-the-badge" alt="Technical focus" />
 
-<br />
+<br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haashid&layout=compact&hide_border=true&theme=transparent&langs_count=8" width="42%" alt="Top programming languages" />
-
-<br />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haashid&bg_color=00000000&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="96%" alt="GitHub activity graph" />
+<a href="https://github.com/haashid?tab=overview&from=2026-01-01&to=2026-12-31">
+<img src="https://img.shields.io/badge/View%20GitHub%20Contribution%20Graph-%E2%86%92-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub contribution graph" />
+</a>
 
 </div>
+
+> **Note:** GitHub's native contribution graph lives directly on the profile. This section intentionally avoids third-party statistic generators that can randomly stop rendering or become unavailable.
 
 ---
 
