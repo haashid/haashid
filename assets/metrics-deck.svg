@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 210" width="100%">
+  <defs>
+    <linearGradient id="mCardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0D1527" />
+      <stop offset="100%" stop-color="#0A0F1D" />
+    </linearGradient>
+    <linearGradient id="cyanBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#0284C7" />
+    </linearGradient>
+    <linearGradient id="purpleBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A78BFA" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+    <linearGradient id="emeraldBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#059669" />
+    </linearGradient>
+    <linearGradient id="amberBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#D97706" />
+    </linearGradient>
+    <style>
+      .num { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 800; }
+      .lbl { font-family: 'JetBrains Mono', monospace; font-weight: 600; letter-spacing: 1px; }
+      .sub { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-weight: 400; }
+    </style>
+  </defs>
+
+  <!-- Card 1: 8x National Hackathons -->
+  <g transform="translate(10, 10)">
+    <rect width="280" height="190" rx="14" fill="url(#mCardBg)" stroke="url(#amberBorder)" stroke-width="1.8" />
+    <circle cx="45" cy="45" r="22" fill="#FEF3C7" fill-opacity="0.1" />
+    <text x="32" y="53" font-size="24">🏆</text>
+    <text x="25" y="105" class="num" font-size="34" fill="#F59E0B">8X CHAMPION</text>
+    <text x="25" y="132" class="lbl" font-size="12" fill="#FDE68A">NATIONAL HACKATHONS</text>
+    <text x="25" y="156" class="sub" font-size="12" fill="#94A3B8">Innov8trix Overall Champion</text>
+    <text x="25" y="174" class="sub" font-size="12" fill="#94A3B8">IIT Kharagpur, HackToFuture 4.0</text>
+  </g>
+
+  <!-- Card 2: AI Developer Intern @ Datavex -->
+  <g transform="translate(310, 10)">
+    <rect width="280" height="190" rx="14" fill="url(#mCardBg)" stroke="url(#cyanBorder)" stroke-width="1.8" />
+    <circle cx="45" cy="45" r="22" fill="#E0F2FE" fill-opacity="0.1" />
+    <text x="32" y="53" font-size="24">🤖</text>
+    <text x="25" y="105" class="num" font-size="34" fill="#38BDF8">AI INTERN</text>
+    <text x="25" y="132" class="lbl" font-size="12" fill="#BAE6FD">DATAVEX AI PVT LTD</text>
+    <text x="25" y="156" class="sub" font-size="12" fill="#94A3B8">Production Multi-Agent Hiring</text>
+    <text x="25" y="174" class="sub" font-size="12" fill="#94A3B8">Multimodal Agents &amp; Orchestration</text>
+  </g>
+
+  <!-- Card 3: 300+ Students Mentored & Leadership -->
+  <g transform="translate(610, 10)">
+    <rect width="280" height="190" rx="14" fill="url(#mCardBg)" stroke="url(#emeraldBorder)" stroke-width="1.8" />
+    <circle cx="45" cy="45" r="22" fill="#D1FAE5" fill-opacity="0.1" />
+    <text x="32" y="53" font-size="24">👥</text>
+    <text x="25" y="105" class="num" font-size="34" fill="#10B981">300+ REACHED</text>
+    <text x="25" y="132" class="lbl" font-size="12" fill="#A7F3D0">COMMUNITY LEADERSHIP</text>
+    <text x="25" y="156" class="sub" font-size="12" fill="#94A3B8">Founding President @ ICSB Club</text>
+    <text x="25" y="174" class="sub" font-size="12" fill="#94A3B8">IEEE SMC Chair &amp; BUILDX Mentor</text>
+  </g>
+
+  <!-- Card 4: Google Student Ambassador & Degree -->
+  <g transform="translate(910, 10)">
+    <rect width="280" height="190" rx="14" fill="url(#mCardBg)" stroke="url(#purpleBorder)" stroke-width="1.8" />
+    <circle cx="45" cy="45" r="22" fill="#EDE9FE" fill-opacity="0.1" />
+    <text x="32" y="53" font-size="24">🌐</text>
+    <text x="25" y="105" class="num" font-size="34" fill="#8B5CF6">GSA 2026</text>
+    <text x="25" y="132" class="lbl" font-size="12" fill="#DDD6FE">GOOGLE AMBASSADOR</text>
+    <text x="25" y="156" class="sub" font-size="12" fill="#94A3B8">CS (IoT, Cyber &amp; Blockchain)</text>
+    <text x="25" y="174" class="sub" font-size="12" fill="#94A3B8">CGPA 8.2 • P.A. College of Eng.</text>
+  </g>
+</svg>
