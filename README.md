@@ -1,11 +1,4 @@
-<div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--        CINEMATIC CYBERPUNK HEADER BANNER (100% RELIABLE)        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<img src="./assets/header-banner.png" width="100%" alt="Muhammad Haashid - Cyberpunk Developer Banner" />
-
-<br /><br />
 
 <!-- Modern Vector HUD Header -->
 <img src="./assets/header.svg" width="100%" alt="Muhammad Haashid - AI & Systems Architect" />
